@@ -71,7 +71,7 @@ with col2:
         </style>
         """, unsafe_allow_html=True)
 
-    # 3. 철자 오류 밑줄 삭제
+    # 3. 철자 오류 밑줄 삭제1
     js = """
         <script>
             const txt_areas = window.parent.document.querySelectorAll('textarea');
