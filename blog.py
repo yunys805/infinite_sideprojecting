@@ -68,6 +68,11 @@ with col2:
         div[data-baseweb="base-input"] {
             background-color: white !important;
         }
+
+        .stTextArea > div {
+            border: none !important;
+        }
+
         </style>
         """, unsafe_allow_html=True)
 
